@@ -1,4 +1,3 @@
-````markdown name=README.md url=https://github.com/lamthienphuc/E-Commerce-Data-Warehouse/blob/32795e93d406349c21027ea7db4fc3bb0da1c793/README.md
 # **E-Commerce Data Warehouse**
 
 ## **Description**
@@ -19,9 +18,13 @@ The dataset used in this project is the E-Commerce Data, which contains transact
 
 ## **Project Structure**
 data/: Contains a sample of the dataset.
+
 sql/: Contains SQL scripts for creating the database schema and other related queries.
+
 etl/: Contains scripts for the ETL process.
+
 docs/: Contains documentation related to the project, including schema designs and project proposal.
+
 README.md: This file, providing an overview of the project, setup instructions, and usage.
 
 ## **Schema Design**
@@ -34,4 +37,3 @@ Detailed instructions on how to set up and run this project will be provided her
 
 ## **Usage**
 Instructions on how to execute the SQL queries and ETL scripts, including examples, will be provided here to demonstrate the data analysis capabilities of the warehouse.
-````
