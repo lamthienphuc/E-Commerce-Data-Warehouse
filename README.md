@@ -26,6 +26,8 @@ The dataset used in this project is the [E-Commerce Data](https://www.kaggle.com
 ## Schema Design
 
 The schema design will be detailed here, including diagrams and descriptions of the fact and dimension tables that comprise the star schema.
+<img width="3000" height="2325" alt="diagram" src="https://github.com/user-attachments/assets/0492704a-23a9-41fd-8bb1-6dcb33da42fb" />
+
 
 ## Setup Instructions
 
