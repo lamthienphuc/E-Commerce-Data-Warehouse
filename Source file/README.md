@@ -27,6 +27,7 @@ The dataset used in this project is the [E-Commerce Data](https://www.kaggle.com
 
 The schema design will be detailed here, including diagrams and descriptions of the fact and dimension tables that comprise the star schema.
 
+
 ## Setup Instructions
 
 Detailed instructions on how to set up and run this project will be provided here, including environment setup, database creation, and running ETL scripts.
