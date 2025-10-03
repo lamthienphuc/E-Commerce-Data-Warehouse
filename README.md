@@ -1,7 +1,7 @@
 # **E-Commerce Data Warehouse**
 
 ## **Description**
-This project aims to build a PostgreSQL-based data warehouse for analyzing e-commerce activities. Utilizing the dataset from Kaggle, the project will demonstrate the implementation of a star schema[...]
+This project aims to build a PostgreSQL-based data warehouse for analyzing e-commerce activities. Utilizing the dataset from Kaggle, the project will demonstrate the implementation of a star schema.
 
 
 
@@ -12,7 +12,7 @@ To develop ETL processes for data cleaning, transformation, and loading.
 To write complex SQL queries for analytical purposes.
 
 ## **Dataset**
-The dataset used in this project is the E-Commerce Data, which contains transactions from an online retail platform. It includes details such as invoice number, stock code, description, quantity, [...]
+The dataset used in this project is the E-Commerce Data, which contains transactions from an online retail platform. It includes details such as invoice number, stock code, description, quantity,...
 
 
 
